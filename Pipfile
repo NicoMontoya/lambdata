@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 twine = "*"
+pylint = "*"
+pep8 = "*"
 
 [packages]
 numpy = "*"
